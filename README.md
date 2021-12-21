@@ -3,7 +3,7 @@
 #### 👷 Repositories I created recently
 
 
-- [phamphihungbk/go-graphql](https://github.com/phamphihungbk/go-graphql)
+- [phamphihungbk/go-graphql-api](https://github.com/phamphihungbk/go-graphql-api)
 - [phamphihungbk/fpjs](https://github.com/phamphihungbk/fpjs)
 - [phamphihungbk/tinny-toobox](https://github.com/phamphihungbk/tinny-toobox)
 - [phamphihungbk/php-restful](https://github.com/phamphihungbk/php-restful)
