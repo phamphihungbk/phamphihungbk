@@ -1,6 +1,4 @@
-### Hi! I'm [@phamphihungbk](https://twitter.com/phamphihungbk) (Hung Pham) 👋
-
-I'm a software engineer from VietNam. 🇻🇳
+### Hi! 👋
 
 👷 Repositories I've created recently
 
